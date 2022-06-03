@@ -16,3 +16,5 @@ Plugin main window
 Plugin option window
 
 ![](help/img/plug_window_1.png)
+
+Ringraziamento per traduzione e suggerimenti a Valerio Pinna
