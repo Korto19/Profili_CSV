@@ -30,7 +30,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python, topographic, profile
 
-homepage=https://github.com/Korto19/Profili_CSV#profili
+homepage=https://github.com/Korto19/Profili_CSV#profili_csv
 category=Plugins
 icon=icon.png
 # experimental flag
