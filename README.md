@@ -3,16 +3,16 @@ Make topographical profiles from csv
 
 Profile example
 
-![](help%5Cimg%5Cprofilo.png)
+![](help/img/profilo.png)
 
 Data example
 
-![](help%5Cimg%5Cplug_dati.png)
+![](help/img/plug_dati.png)
 
 Plugin main window
 
-![](help%5Cimg%5Cplug_window_0.png)
+![](help/img/plug_window_0.png)
 
 Plugin option window
 
-![](help%5Cimg%5Cplug_window_1.png)
+![](help/img/plug_window_1.png)
